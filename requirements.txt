@@ -19,7 +19,7 @@ Flask-RESTful==0.3.6
 flask-restplus==0.12.1
 Flask-SQLAlchemy==2.3.2
 Flask-Testing==0.7.1
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 ipykernel==4.6.1
 ipython==6.2.1
